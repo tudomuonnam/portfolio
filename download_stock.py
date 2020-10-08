@@ -15,22 +15,32 @@ chrome_options = Options()
 chrome_options.add_argument('ignore-certificate-errors') #Configure chrome options
 chrome_options.add_argument('--headless')
 
-driver = webdriver.Chrome(options=chrome_options)
+
 
 #stickers = ['VN30INDEX','REE','HCM','PNJ','FMC']
 #sticker = random.choice(stickers)
 #start =    '01/01/2020'
 #end =      '01/10/2020'
-
+'''
 sticker = sys.argv[1]
 start =   sys.argv[2] #'01/01/2016'
 end =     sys.argv[3] #'01/10/2020'
 # Delete file if exist
+if(len(start)<1): start = '01/01/2016'
+if(len(end)<1): end = '01/10/2020'
+'''
+sticker = sys.argv[1]
+if (len(sys.argv) > 2): start = sys.argv[2]
+else: start = '01/01/2016'
+if (len(sys.argv) > 2): end = sys.argv[3]
+else: end = '01/10/2020'
+#start = '01/01/2016' if (len(sys.argv[2]) > 1) else sys.argv[2]
+#end = '01/10/2020' if (len(sys.argv[3]) > 1) else sys.argv[3]
 try:
     os.remove(sticker+".csv")
 except OSError:
     pass
-
+driver = webdriver.Chrome(options=chrome_options)
 url = 'https://s.cafef.vn/Lich-su-giao-dich-'+sticker+'-1.chn#data'
 driver.get(url)
 WebDriverWait(driver,5)
@@ -84,5 +94,9 @@ if(len(sticker) > 3):
 # finally drop duplicate if have any
 df = df.drop_duplicates()
 # Save to csv
-df.to_csv(sticker+".csv",index=False)
+df.to_csv("data/"+sticker+".csv",index=False)
+try:
+    os.remove(sticker+".csv")
+except OSError:
+    pass
 print("Download complete! See in data/"+sticker+".csv file")

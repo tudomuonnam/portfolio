@@ -41,8 +41,6 @@ WebDriverWait(driver,2)
 
 while True:
     try:
-      #  next_link = WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CSS_SELECTOR, "[title^=' Next to']")))
-        ## Find and extract data
         tbl = driver.find_element_by_xpath('//*[@id="GirdTable2"]').get_attribute('outerHTML')
         df = pd.read_html(tbl)
         #refine data

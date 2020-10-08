@@ -43,7 +43,7 @@ def get_list_portfolio_index(url): # Tra về bảng gồm bộ chỉ số VNInd
     # Keep link in list
     links = [element.get_attribute('href') for element in elements]
     # Filter links contain "Listed/Web/SectorItemView"
-    links = [link in links if ("Listed/Web/SectorItemView" in links)]
+    links = [link for link in links if ("Listed/Web/SectorItemView" in link)]
     # Get table as usual
     df = pd.read_html(tbl)[0]
     df = df.drop([0])
