@@ -69,12 +69,9 @@ while True:
     except NoSuchElementException:
         #print("Error! NoSuchElementException")
         break
-'''
-if(len(sticker) > 3): 
-    names = ['date','open','high','low','close','volume']
-else: 
-    names = ['date','open','high','low','close','volume','adj_close']
-'''
+driver.close()
+driver.quit()
+
 names = ['date','open','high','low','close','volume','adj_close']
 df = pd.read_csv(sticker+".csv",header=None)
 df.columns = names
@@ -88,6 +85,4 @@ if(len(sticker) > 3):
 df = df.drop_duplicates()
 # Save to csv
 df.to_csv(sticker+".csv",index=False)
-print("Download complete! See .csv file")
-driver.close()
-driver.quit()
+print("Download complete! See in data/"+sticker+".csv file")
