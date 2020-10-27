@@ -22,7 +22,7 @@ def get_stock(sticker,start='2017-01-01',end='2020-10-02'):
     header = [names,sub]
     df.columns = header
     # Filter dataframe with start and end date
-    df = df.loc[start:end]
+   # df = df.loc[start:end]
     return df
 
 def get_adj_portfolio(stickers,start_date='2018-01-01',end_date='2020-10-02'):
