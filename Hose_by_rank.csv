@@ -1,0 +1,294 @@
+ticker,name,Type
+ACB,Ngân hàng Thương mại Cổ phần Á Châu,VN30
+BID,Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam,VN30
+BVH,Tập đoàn Bảo Việt,VN30
+CTG,Ngân hàng Thương mại Cổ phần Công Thương Việt Nam,VN30
+FPT,Công ty Cổ phần FPT,VN30
+GAS,Tổng Công ty Khí Việt Nam - Công ty Cổ phần,VN30
+GVR,Tập đoàn Công nghiệp Cao su Việt Nam - Công ty Cổ phần,VN30
+HDB,Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh,VN30
+HPG,Công ty Cổ phần Tập đoàn Hòa Phát,VN30
+KDH,Công ty Cổ phần Đầu tư và Kinh doanh Nhà Khang Điền,VN30
+MBB,Ngân hàng Thương mại Cổ phần Quân Đội,VN30
+MSN,Công ty Cổ phần Tập đoàn MaSan,VN30
+MWG,Công ty Cổ phần Đầu tư Thế Giới Di Động,VN30
+NVL,Công ty Cổ phần Tập đoàn Đầu tư Địa ốc No Va,VN30
+PDR,Công ty Cổ phần Phát triển Bất động sản Phát Đạt,VN30
+PLX,Tập đoàn Xăng dầu Việt Nam,VN30
+PNJ,Công ty Cổ phần Vàng bạc Đá quý Phú Nhuận,VN30
+POW,Tổng Công ty Điện lực Dầu khí Việt Nam - CTCP,VN30
+SAB,Tổng Công ty Cổ phần Bia – Rượu – Nước giải khát Sài Gòn,VN30
+SSI,Công ty Cổ phần Chứng khoán SSI,VN30
+STB,Ngân hàng Thương mại Cổ phần Sài Gòn Thương Tín,VN30
+TCB,Ngân hàng TMCP Kỹ Thương Việt Nam,VN30
+TPB,Ngân hàng Thương mại Cổ phần Tiên Phong,VN30
+VCB,Ngân hàng TMCP Ngoại Thương Việt Nam,VN30
+VHM,Công ty Cổ phần Vinhomes,VN30
+VIC,Tập đoàn Vingroup - Công ty Cổ phần,VN30
+VJC,Công ty Cổ phần Hàng không VietJet,VN30
+VNM,Công ty Cổ phần Sữa Việt Nam,VN30
+VPB,Ngân hàng TMCP Việt Nam Thịnh Vượng,VN30
+VRE,Công ty Cổ phần Vincom Retail,VN30
+AAA,Công ty Cổ phần Nhựa An Phát Xanh,VNMID
+AGG,Công ty Cổ phần Đầu tư và Phát triển Bất động sản An Gia,VNMID
+ANV,Công ty Cổ phần Nam Việt,VNMID
+APH,Công ty Cổ phần Tập đoàn An Phát Holdings,VNMID
+ASM,Công ty Cổ phần Tập đoàn Sao Mai,VNMID
+BMI,Tổng Công ty Cổ phần Bảo Minh,VNMID
+BMP,Công ty Cổ phần Nhựa Bình Minh,VNMID
+BWE,Công ty Cổ phần Nước – Môi trường Bình Dương,VNMID
+CII,Công ty Cổ phần Đầu tư Hạ tầng Kỹ thuật TP.HCM,VNMID
+CMG,Công ty Cổ phần Tập đoàn Công nghệ CMC,VNMID
+CRE,Công ty Cổ phần Bất động sản Thế Kỷ,VNMID
+CTD,Công ty Cổ phần Xây dựng COTECCONS,VNMID
+DBC,Công ty Cổ phần Tập đoàn DABACO Việt Nam,VNMID
+DBD,Công ty Cổ phần Dược - Trang thiết bị Y tế Bình Định,VNMID
+DCM,Công ty Cổ phần Phân bón Dầu khí Cà Mau,VNMID
+DGC,Công ty Cổ phần Tập đoàn Hóa chất Đức Giang,VNMID
+DHC,Công ty Cổ phần Đông Hải Bến Tre,VNMID
+DIG,Tổng Công ty Cổ phần Đầu tư Phát triển Xây dựng,VNMID
+DPM,Tổng Công ty Phân bón và Hóa chất Dầu khí - Công ty Cổ phần,VNMID
+DRC,Công ty Cổ phần Cao su Đà Nẵng,VNMID
+DXG,Công ty Cổ phần Tập đoàn Đất Xanh,VNMID
+EIB,Ngân hàng Thương mại Cổ phần Xuất Nhập khẩu Việt Nam,VNMID
+FIT,Công ty Cổ phần Tập đoàn F.I.T,VNMID
+FLC,Công ty Cổ phần Tập đoàn FLC,VNMID
+GAB,Công ty Cổ phần Đầu tư Khai khoáng & Quản lý Tài sản FLC,VNMID
+GEG,Công ty Cổ phần Điện Gia Lai,VNMID
+GEX,Công ty Cổ phần Tập đoàn GELEX,VNMID
+GMD,Công ty Cổ phần GEMADEPT,VNMID
+GTN,Công ty Cổ phần GTNFOODS,VNMID
+HBC,Công ty Cổ phần Tập đoàn Xây dựng Hòa Bình,VNMID
+HCM,Công ty Cổ phần Chứng khoán Thành phố Hồ Chí Minh,VNMID
+HDG,Công ty Cổ phần Tập đoàn Hà Đô,VNMID
+HNG,Công ty Cổ phần Nông nghiệp Quốc tế Hoàng Anh Gia Lai,VNMID
+HPX,Công ty Cổ phần Đầu tư Hải Phát,VNMID
+HSG,Công ty Cổ phần Tập đoàn Hoa Sen,VNMID
+HT1,Công ty Cổ phần Xi măng Hà Tiên 1,VNMID
+IMP,Công ty Cổ phần Dược phẩm Imexpharm,VNMID
+ITA,Công ty Cổ phần Đầu tư và Công nghiệp Tân Tạo,VNMID
+KBC,Tổng Công ty Phát triển Đô Thị Kinh Bắc – Công ty Cổ phần,VNMID
+KDC,Công ty Cổ phần Tập đoàn Kido,VNMID
+KOS,Công ty Cổ phần KOSY,VNMID
+LPB,Ngân hàng Thương mại Cổ phần Bưu điện Liên Việt,VNMID
+MSB,Ngân hàng Thương mại Cổ phần Hàng Hải Việt Nam,VNMID
+NLG,Công ty Cổ phần Đầu tư Nam Long,VNMID
+NT2,Công ty Cổ phần Điện lực Dầu khí Nhơn Trạch 2,VNMID
+PC1,Công ty Cổ phần Xây lắp Điện I,VNMID
+PHR,Công ty Cổ phần Cao su Phước Hòa,VNMID
+PPC,Công ty Cổ phần Nhiệt điện Phả Lại,VNMID
+PSH,Công ty Cổ phần Thương mại Đầu tư Dầu khí Nam Sông Hậu,VNMID
+PTB,Công ty Cổ phần Phú Tài,VNMID
+PVD,Tổng Công ty Cổ phần Khoan và Dịch vụ Khoan Dầu khí,VNMID
+PVT,Tổng Công ty Cổ phần Vận tải Dầu khí,VNMID
+REE,Công ty Cổ phần Cơ Điện Lạnh,VNMID
+SAM,Công ty Cổ phần SAM Holdings,VNMID
+SBT,Công ty Cổ phần Thành Thành Công - Biên Hòa,VNMID
+SCR,Công ty Cổ phần Địa ốc Sài Gòn Thương Tín,VNMID
+SCS,Công ty Cổ phần Dịch vụ Hàng hóa Sài Gòn,VNMID
+SJS,Công ty Cổ phần Đầu tư Phát triển Đô thị và Khu công nghiệp Sông Đà,VNMID
+SZC,Công ty Cổ phần Sonadezi Châu Đức,VNMID
+TCH,Công ty Cổ phần Đầu tư Dịch vụ Tài chính Hoàng Huy,VNMID
+TDM,Công ty Cổ phần Nước Thủ Dầu Một,VNMID
+TLG,Công ty Cổ phần Tập đoàn Thiên Long,VNMID
+TMS,Công ty Cổ phần Transimex,VNMID
+VCG,Tổng Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam,VNMID
+VCI,Công ty Cổ phần Chứng khoán Bản Việt,VNMID
+VGC,Tổng Công ty Viglacera - CTCP,VNMID
+VHC,Công ty Cổ phần Vĩnh Hoàn,VNMID
+VIB,Ngân hàng Thương mại Cổ phần Quốc tế Việt Nam,VNMID
+VPI,Công ty Cổ phần Đầu tư Văn Phú - Invest,VNMID
+VSH,Công ty Cổ phần Thủy điện Vĩnh Sơn Sông Hinh,VNMID
+ABS,Công ty Cổ phần Dịch vụ Nông nghiệp Bình Thuận,VNSML
+ACC,Công ty Cổ phần Đầu tư và Xây dựng Bình Dương ACC,VNSML
+ACL,Công ty Cổ phần Xuất Nhập Khẩu Thủy sản Cửu Long An Giang,VNSML
+ADS,Công ty Cổ phần Damsan,VNSML
+AGM,Công ty Cổ phần Xuất Nhập Khẩu An Giang,VNSML
+AGR,Công ty Cổ phần Chứng khoán Agribank,VNSML
+AMD,Công ty Cổ phần Đầu tư và Khoáng sản FLC Stone,VNSML
+APC,Công ty Cổ phần Chiếu xạ An Phú,VNSML
+APG,Công ty Cổ phần Chứng khoán APG,VNSML
+ASP,Công ty Cổ phần Tập đoàn Dầu khí An Pha,VNSML
+AST,Công ty Cổ phần Dịch vụ Hàng không Taseco,VNSML
+BCE,Công ty Cổ phần Xây dựng và Giao thông Bình Dương,VNSML
+BCG,Công ty Cổ phần Bamboo Capital,VNSML
+BFC,Công ty Cổ phần Phân bón Bình Điền,VNSML
+BIC,Tổng Công ty Bảo hiểm Ngân hàng Đầu tư và Phát triển Việt Nam,VNSML
+BKG,Công ty Cổ phần Đầu tư BKG Việt Nam,VNSML
+BMC,Công ty Cổ phần Khoáng sản Bình Định,VNSML
+BRC,Công ty Cổ phần Cao su Bến Thành,VNSML
+BTP,Công ty Cổ phần Nhiệt điện Bà Rịa,VNSML
+C32,Công ty Cổ phần CIC39,VNSML
+C47,Công ty Cổ phần Xây dựng 47,VNSML
+CCI,Công ty Cổ phần Đầu tư Phát triển Công nghiệp Thương mại Củ Chi,VNSML
+CCL,Công ty Cổ phần Đầu tư và Phát triển Đô thị Dầu khí Cửu Long,VNSML
+CDC,Công ty Cổ phần Chương Dương,VNSML
+CEE,Công ty Cổ phần Xây dựng Hạ tầng CII,VNSML
+CKG,Công ty Cổ phần Tập đoàn Tư vấn Đầu tư Xây dựng Kiên Giang,VNSML
+CLC,Công ty Cổ phần Cát Lợi,VNSML
+CMX,Công ty Cổ phần Camimex Group,VNSML
+CNG,Công ty Cổ phần CNG Việt Nam,VNSML
+CRC,Công ty Cổ phần Create Capital Việt Nam,VNSML
+CSM,Công ty Cổ phần Công nghiệp Cao su Miền Nam,VNSML
+CSV,Công ty Cổ phần Hóa chất cơ bản miền Nam,VNSML
+CTF,Công ty Cổ phần City Auto,VNSML
+CTI,Công ty Cổ phần Đầu tư Phát triển Cường Thuận IDICO,VNSML
+CTS,Công ty Cổ phần Chứng khoán Ngân hàng Công Thương Việt Nam,VNSML
+CVT,Công ty Cổ phần CMC,VNSML
+D2D,Công ty Cổ phần Phát triển Đô thị Công nghiệp số 2,VNSML
+DAG,Công ty Cổ phần Tập đoàn Nhựa Đông Á,VNSML
+DAH,Công ty Cổ phần Tập đoàn Khách sạn Đông Á,VNSML
+DBT,Công ty Cổ phần Dược phẩm Bến Tre,VNSML
+DC4,Công ty Cổ phần Xây dựng DIC Holdings,VNSML
+DCL,Công ty Cổ phần Dược phẩm Cửu Long,VNSML
+DGW,Công ty Cổ phần Thế Giới Số,VNSML
+DHA,Công ty Cổ phần Hóa An,VNSML
+DHM,Công ty Cổ phần Thương mại & Khai thác Khoáng sản Dương Hiếu,VNSML
+DMC,Công ty Cổ phần Xuất nhập khẩu Y tế DOMESCO,VNSML
+DPG,Công ty Cổ phần Đạt Phương,VNSML
+DPR,Công ty Cổ phần Cao su Đồng Phú,VNSML
+DQC,Công ty Cổ phần Bóng đèn Điện Quang,VNSML
+DRH,Công ty Cổ phần DRH Holdings,VNSML
+DSN,Công ty Cổ phần Công viên nước Đầm Sen,VNSML
+DTA,Công ty Cổ phần Đệ Tam,VNSML
+DVP,Công ty Cổ phần Đầu tư và Phát triển Cảng Đình Vũ,VNSML
+DXV,Công ty Cổ phần Vicem Vật liệu Xây dựng Đà Nẵng,VNSML
+ELC,Công ty Cổ phần Đầu tư Phát triển Công nghệ Điện tử - Viễn thông,VNSML
+EVE,Công ty Cổ phần Everpia,VNSML
+EVG,Công ty Cổ phần Tập đoàn Everland,VNSML
+FCM,Công ty Cổ phần Khoáng sản FECON,VNSML
+FCN,Công ty Cổ phần FECON,VNSML
+FIR,Công ty Cổ phần Địa ốc First Real,VNSML
+FMC,Công ty Cổ phần Thực phẩm Sao Ta,VNSML
+FRT,Công ty Cổ phần Bán lẻ Kỹ thuật số FPT,VNSML
+FTS,Công ty Cổ phần Chứng khoán FPT,VNSML
+GDT,Công ty Cổ phần Chế biến Gỗ Đức Thành,VNSML
+GIL,Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Bình Thạnh,VNSML
+GMC,Công ty Cổ phần Garmex Sài Gòn,VNSML
+GSP,Công ty Cổ phần Vận tải Sản phẩm Khí Quốc tế,VNSML
+GTA,Công ty Cổ phần Chế biến Gỗ Thuận An,VNSML
+HAH,Công ty Cổ phần Vận tải và Xếp dỡ Hải An,VNSML
+HAI,Công ty Cổ phần Nông dược HAI,VNSML
+HAR,Công ty Cổ phần Đầu tư Thương mại Bất động sản An Dương Thảo Điền,VNSML
+HAS,Công ty Cổ phần HACISCO,VNSML
+HAX,Công ty Cổ phần Dịch vụ Ô tô Hàng Xanh,VNSML
+HCD,Công ty Cổ phần Đầu tư Sản xuất và Thương mại HCD,VNSML
+HDC,Công ty Cổ phần Phát triển nhà Bà Rịa – Vũng Tàu,VNSML
+HHS,Công ty Cổ phần Đầu tư Dịch vụ Hoàng Huy,VNSML
+HII,Công ty Cổ phần An Tiến Industries,VNSML
+HMC,Công ty Cổ phần Kim khí Thành phố Hồ Chí Minh - Vnsteel,VNSML
+HQC,Công ty Cổ phần Tư vấn – Thương mại – Dịch vụ Địa ốc Hoàng Quân,VNSML
+HSL,Công ty Cổ phần Đầu tư Phát triển Thực phẩm Hồng Hà,VNSML
+HTI,Công ty Cổ phần Đầu tư Phát triển Hạ tầng IDICO,VNSML
+HTL,Công ty Cổ phần Kỹ thuật và Ô tô Trường Long,VNSML
+HTN,Công ty Cổ phần Hưng Thịnh Incons,VNSML
+HTV,Công ty Cổ phần Logistics Vicem,VNSML
+HU1,Công ty Cổ phần Đầu tư và Xây dựng HUD1,VNSML
+HUB,Công ty Cổ phần Xây lắp Thừa Thiên Huế,VNSML
+HVH,Công ty Cổ phần Đầu tư và Công nghệ HVC,VNSML
+HVX,Công ty Cổ phần Xi măng Vicem Hải Vân,VNSML
+IBC,Công ty Cổ phần Đầu tư Apax Holdings,VNSML
+ICT,Công ty Cổ phần Viễn thông - Tin học Bưu điện,VNSML
+IDI,Công ty Cổ phần Đầu tư và Phát triển Đa Quốc Gia I.D.I,VNSML
+IJC,Công ty Cổ phần Phát triển Hạ tầng Kỹ thuật,VNSML
+ILB,Công ty Cổ phần ICD Tân Cảng - Long Bình,VNSML
+ITC,Công ty Cổ phần Đầu tư - Kinh doanh Nhà,VNSML
+ITD,Công ty Cổ phần Công nghệ Tiên Phong,VNSML
+KHP,Công ty Cổ phần Điện lực Khánh Hòa,VNSML
+KMR,Công ty Cổ phần MIRAE,VNSML
+KPF,Công ty Cổ phần Đầu tư Tài chính Hoàng Minh,VNSML
+KSB,Công ty Cổ phần Khoáng sản và Xây dựng Bình Dương,VNSML
+LBM,Công ty Cổ phần Khoáng sản và Vật liệu Xây dựng Lâm Đồng,VNSML
+LCG,Công ty Cổ phần LICOGI 16,VNSML
+LDG,Công ty Cổ phần Đầu tư LDG,VNSML
+LGL,Công ty Cổ phần Đầu tư và Phát triển Đô thị Long Giang,VNSML
+LHG,Công ty Cổ phần Long Hậu,VNSML
+LIX,Công ty Cổ phần Bột giặt LIX,VNSML
+LM8,Công ty Cổ phần Lilama 18,VNSML
+LSS,Công ty Cổ phần Mía đường Lam Sơn,VNSML
+MHC,Công ty Cổ phần MHC,VNSML
+MSH,Công ty Cổ phần May Sông Hồng,VNSML
+NAF,Công ty Cổ phần Nafoods Group,VNSML
+NCT,Công ty Cổ phần Dịch vụ Hàng hóa Nội Bài,VNSML
+NHH,Công ty Cổ phần Nhựa Hà Nội,VNSML
+NKG,Công ty Cổ phần Thép Nam Kim,VNSML
+NNC,Công ty Cổ phần Đá Núi Nhỏ,VNSML
+NTL,Công ty Cổ phần Phát triển Đô thị Từ Liêm,VNSML
+NVT,Công ty Cổ phần Bất động sản Du lịch Ninh Vân Bay,VNSML
+PAC,Công ty Cổ phần Pin Ắc quy miền Nam,VNSML
+PET,Tổng Công ty Cổ phần Dịch vụ Tổng hợp Dầu khí,VNSML
+PGC,Tổng Công ty Gas Petrolimex - Công ty Cổ phần,VNSML
+PHC,Công ty Cổ phần Xây dựng Phục Hưng Holdings,VNSML
+PIT,Công ty Cổ phần Xuất nhập khẩu Petrolimex,VNSML
+PJT,Công ty Cổ phần Vận tải Xăng dầu Đường thủy Petrolimex,VNSML
+PLP,Công ty Cổ phần Sản xuất và Công nghệ Nhựa Pha Lê,VNSML
+PMG,Công ty Cổ phần Đầu tư và Sản xuất Petro Miền Trung,VNSML
+POM,Công ty Cổ phần Thép POMINA,VNSML
+QCG,Công ty Cổ phần Quốc Cường Gia Lai,VNSML
+RAL,Công ty Cổ phần Bóng đèn Phích nước Rạng Đông,VNSML
+RDP,Công ty Cổ phần Rạng Đông Holding,VNSML
+ROS,Công ty Cổ phần Xây dựng FLC FAROS,VNSML
+SAV,Công ty Cổ phần Hợp tác Kinh tế và Xuất nhập khẩu Savimex,VNSML
+SBA,Công ty Cổ phần Sông Ba,VNSML
+SBV,Công ty Cổ phần Siam Brothers Việt Nam,VNSML
+SCD,Công ty Cổ phần Nước giải khát Chương Dương,VNSML
+SFG,Công ty Cổ phần Phân bón Miền Nam,VNSML
+SFI,Công ty Cổ phần Đại lý Vận tải SAFI,VNSML
+SGN,Công ty Cổ phần Phục vụ Mặt đất Sài Gòn,VNSML
+SGR,Công ty Cổ phần Địa ốc Sài Gòn,VNSML
+SGT,Công ty Cổ phần Công nghệ Viễn thông Sài Gòn,VNSML
+SHA,Công ty Cổ phần Sơn Hà Sài Gòn,VNSML
+SHI,Công ty Cổ phần Quốc tế Sơn Hà,VNSML
+SJD,Công ty Cổ phần Thủy điện Cần Đơn,VNSML
+SJF,Công ty Cổ phần Đầu tư Sao Thái Dương,VNSML
+SKG,Công ty Cổ phần Tàu cao tốc Superdong – Kiên Giang,VNSML
+SMB,Công ty Cổ phần Bia Sài Gòn - Miền Trung,VNSML
+SMC,Công ty Cổ phần Đầu tư Thương mại SMC,VNSML
+SRC,Công ty Cổ phần Cao su Sao Vàng,VNSML
+ST8,Công ty Cổ phần Siêu Thanh,VNSML
+STK,Công ty Cổ phần Sợi Thế Kỷ,VNSML
+SZL,Công ty Cổ phần Sonadezi Long Thành,VNSML
+TAC,Công ty Cổ phần Dầu thực vật Tường An,VNSML
+TCD,Công ty Cổ phần Đầu tư Phát triển Công nghiệp và Vận tải,VNSML
+TCL,Công ty Cổ phần Đai lý Giao nhận Vận tải Xếp dỡ Tân Cảng,VNSML
+TCM,Công ty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công,VNSML
+TCO,Công ty Cổ phần Vận tải Đa phương thức Duyên Hải,VNSML
+TCT,Công ty Cổ phần Cáp treo Núi Bà Tây Ninh,VNSML
+TDC,Công ty Cổ phần Kinh doanh và Phát triển Bình Dương,VNSML
+TDG,Công ty Cổ phần Đầu tư TDG GLOBAL,VNSML
+TDH,Công ty Cổ phần Phát triển Nhà Thủ Đức,VNSML
+TDP,Công ty Cổ phần Thuận Đức,VNSML
+TEG,Công ty Cổ phần Năng lượng và Bất động sản Trường Thành,VNSML
+THG,Công ty Cổ phần Đầu tư và Xây dựng Tiền Giang,VNSML
+TIP,Công ty Cổ phần Phát triển Khu Công nghiệp Tín Nghĩa,VNSML
+TLD,Công ty Cổ phần Đầu tư Xây dựng và Phát triển Đô thị Thăng Long,VNSML
+TLH,Công ty Cổ phần Tập đoàn Thép Tiến Lên,VNSML
+TMT,Công ty Cổ phần Ô tô TMT,VNSML
+TN1,Công ty Cổ phần Thương mại Dịch vụ TNS Holdings,VNSML
+TNA,Công ty Cổ phần Thương mại Xuất nhập khẩu Thiên Nam,VNSML
+TNI,Công ty Cổ phần Tập đoàn Thành Nam,VNSML
+TNT,Công ty Cổ phần Tập đoàn TNT,VNSML
+TRC,Công ty Cổ phần Cao su Tây Ninh,VNSML
+TSC,Công ty Cổ phần Vật tư Kỹ thuật Nông nghiệp Cần Thơ,VNSML
+TTA,Công ty Cổ phần Đầu tư Xây dựng và Phát triển Trường Thành,VNSML
+TTB,Công ty Cổ phần Tập đoàn Tiến Bộ,VNSML
+TV2,Công ty Cổ phần Tư vấn Xây dựng Điện 2,VNSML
+TVS,Công ty Cổ phần Chứng khoán Thiên Việt,VNSML
+TYA,Công ty Cổ phần Dây và Cáp điện Taya Việt Nam,VNSML
+UDC,Công ty Cổ phần Xây dựng và Phát triển Đô thị tỉnh Bà Rịa - Vũng Tàu,VNSML
+UIC,Công ty Cổ phần Đầu tư Phát triển Nhà và Đô thị IDICO,VNSML
+VDS,Công ty Cổ phần Chứng khoán Rồng Việt,VNSML
+VID,Công ty Cổ phần Đầu tư Phát triển Thương mại Viễn Đông,VNSML
+VIP,Công ty Cổ phần Vận tải Xăng dầu VIPCO,VNSML
+VMD,Công ty Cổ phần Y Dược phẩm Vimedimex,VNSML
+VNE,Tổng Công ty Cổ phần Xây dựng Điện Việt Nam,VNSML
+VNG,Công ty Cổ phần Du lịch Thành Thành Công,VNSML
+VPG,Công ty Cổ phần Đầu tư Thương mại Xuất nhập khẩu Việt Phát,VNSML
+VPH,Công ty Cổ phần Vạn Phát Hưng,VNSML
+VPS,Công ty Cổ phần Thuốc sát trùng Việt Nam,VNSML
+VRC,Công ty Cổ phần Bất động sản và Đầu tư VRC,VNSML
+VSC,Công ty Cổ phần Container Việt Nam,VNSML
+VSI,Công ty Cổ phần Đầu tư và Xây dựng Cấp thoát nước,VNSML
+VTB,Công ty Cổ phần Viettronics Tân Bình,VNSML
+VTO,Công ty Cổ phần Vận tải Xăng dầu VITACO,VNSML
+YBM,Công ty Cổ phần Khoáng sản Công nghiệp Yên Bái,VNSML
